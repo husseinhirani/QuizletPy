@@ -10,3 +10,8 @@ Welcome to QuizletPy.  This is a Python agent that is designed to take any Quizl
 	<img width="789" alt="image" src="https://github.com/user-attachments/assets/002d5e98-fe4f-417c-89e7-f9394988c20e">
 
 3. Third, copy the text and paste it into "first.txt".  Run the guistuff.py program.
+
+## Future Steps
+- Improve the GUI
+- Starred Terms
+- Separate Customization Option to Match your Own Export Options
