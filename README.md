@@ -3,6 +3,13 @@
 Welcome to QuizletPy.  This is a Python agent that is designed to take any Quizlet and load it on your computer in a GUI format.  Eliminates ads.
 
 ## Setup
+
+### Prerequisites
+1. Install the latest version of python here: https://www.python.org/downloads/
+2. Install pip
+3. Install tkinter
+
+### Setup
 1. First, make a copy of the Quizlet set that you want to use
   ![image](https://github.com/user-attachments/assets/d360b680-0edb-4e50-9a77-6465417ab0bd)
 
@@ -15,3 +22,4 @@ Welcome to QuizletPy.  This is a Python agent that is designed to take any Quizl
 - Improve the GUI
 - Starred Terms
 - Separate Customization Option to Match your Own Export Options
+- Offer option for multiple Ad-free quizlet windows
