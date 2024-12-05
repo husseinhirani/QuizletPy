@@ -28,3 +28,6 @@ Distraction-Free Studying.  Quizlet without ads/distractions!
 - Starred Terms
 - Separate Customization Option to Match your Own Export Options
 - Offer option for multiple Ad-free quizlet windows
+
+
+# **Contributions Always Welcome!**
