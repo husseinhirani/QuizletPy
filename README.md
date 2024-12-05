@@ -18,6 +18,10 @@ Welcome to QuizletPy.  This is a Python agent that is designed to take any Quizl
 
 3. Third, copy the text and paste it into "first.txt".  Run the guistuff.py program.
 
+### Result
+<img width="170" alt="image" src="https://github.com/user-attachments/assets/7df9a8eb-2ea4-408d-b084-a86a38458f91">
+Distraction-Free Studying.  Quizlet without ads/distractions!
+
 ## Future Steps
 - Improve the GUI
 - Starred Terms
